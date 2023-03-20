@@ -1,0 +1,12 @@
+﻿[
+  {
+    "id": 1,
+    "name": "laptop 1",
+    "desc": "desc 1"
+  },
+  {
+    "id": 2,
+    "name": "laptop 2",
+    "desc": "desc 2"
+  }
+]
